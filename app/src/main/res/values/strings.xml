@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="spot_nama">Judul Spot</string>
+    <string name="spot_deskripsi">Deskripsi Spot</string>
+    <string name="spot_tempat">Tempat Spot</string>
+    <string name="Grid">Grid</string>
+    <string name="bentuk_grid">Bentuk Grid</string>
+    <string name="spot_detailname">Detail Judul</string>
+    <string name="spot_detaildescription">Detail Deksripsi</string>
+
+    <string-array name="spot_name">
+        <item>Blok M Square</item>
+        <item>Gedung MPR DPR</item>
+        <item>Rumah Pohon Curug Ciherang</item>
+        <item>Danau Quarry Jayamix</item>
+        <item>Arumdalu Farm</item>
+        <item>Kampung Bekelir</item>
+        <item>OMG ROOMS</item>
+    </string-array>
+
+
+    <string-array name="spot_description">
+        <item>Terkejut? Mendatangi Blok M Square memang bawaannya selalu ingin terburu mengejar bis.
+            Tanpa kita sadari, ternyata pusat perbelanjaan di kawasan Selatan ini ternyata memiliki sudut foto yang sungguh instagrammable.</item>
+
+        <item>Mari ciptakan tren baru. Daripada mengunjungi gedung MPR DPR hanya untuk berdemo dan menambah kemacetan Jakarta. Lebih baik kali ini tujuannya berfoto cantik.
+            Seringkali keriuhan masyarakat berdemo di lokasi ini membuat kita lupa akan kemegahan arsitekturnya.</item>
+
+        <item>keren. Bahkan, bisa dibilang rumah pohon inilah yang berjasa mengangkat popularitas Curug Ciherang.
+              Sebelumnya, Curug Ciherang memang tidak terlalu banyak didatangi karena lokasinya yang agak tersembunyi di Sukamakmur, Jonggol, Bogor.</item>
+
+        <item>
+            Spot foto di Bogor memang unik-unik sekaligus keren. Kali ini, ada Danau Quarry Jayamix yang popular sebagai tempat hunting bagi anak-anak muda.
+            Uniknya dimana? Dulu, danau ini merupakan tempat penambangan batu. Tapi karena getaran yang dihasilkan saat produksi terlalu tinggi dan mengganggu warga sekitar, penambangan dihentikan.
+            Nah, cerukan bekas penambangan ini kemudian terisi oleh air hujan dan membentuk danau. Siapa sangka, warna air hasil tampungannya sangat cantik, yakni hijau kebiruan.
+        </item>
+
+        <item>
+            Jika Anda mencari gempat wisata yang cerah dan berbunga, tempat ini lah jawabannya. Tempat yang masih berada dalam wilayah Scientia Square Park, taman ini menghadirkan konsep Farm to Table Cafe. Maksudnya adalah di dalam taman ini terdapat pula cafe yang dapat Anda kunjungi. Jadi, tidak hanya menikmati keindahan bunga matahari dan berfoto, Anda juga dapat menikmati santapan bersama orang tersayang.
+        </item>
+
+        <item>Kampung Bekelir merupakan salah satu destinasi wisata yang bisa dikunjungi di Kota Tangerang. Letaknya sendiri ada di Kelurahan Babakan. Kampung tersebut merupakan kampung yang telah bertransformasi menjadi kampung warna-warni dan tertata rapi. Ini juga yang membuat daya untuk wisatawan lokal maupun wisatawan mancanegara. Beberapa waktu lalu KompasTravel berkunjung ke kampung tersebut bersama dengan Crowde dan Kultara untuk melakukan beberapa aktivitas</item>
+
+        <item>Area depan OMG Rooms yang berlokasi di lantai 1 Summarecon Mall Bekasi dibuat dengan konsep pop art yang disertai dekorasi mural pada setiap dindingnya. Setelah melewati pintu masuk, pengunjung memasuki ruang pertama dengan konsep Supermarket. Terdapat 2 ruang yang bisa Anda kunjungi. Pertama, pengunjung dapat berfoto dan bergaya dengan troli warna-warni layaknya di supermarket dan yang kedua, pengunjung dapat berfoto didepan kantong dan struk belanja yang berukuran besar.</item>
+    </string-array>
+
+
+</resources>
